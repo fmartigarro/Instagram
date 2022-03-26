@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/fmartigarro/Twitter/blob/main/IG_gif.gif)
+![](https://github.com/fmartigarro/Instagram/blob/main/IG_gif.gif)
